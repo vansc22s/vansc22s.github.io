@@ -1,3 +1,5 @@
+# Education
+
 ### University of California, Riverside
 
 Riverside, CA
