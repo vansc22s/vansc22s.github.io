@@ -18,8 +18,11 @@
 - STAT 100B: Introduction to Statistics
   * Spring 2018
   * Winter 2019
+  
 ### Summer Programs
+
 #### UCR Upward Bound
+
 - Summer 2019
   * Data Analysis
   * Statistics
@@ -28,12 +31,14 @@
   * Pre-Calculus
   * Calculus
   * 2nd Year Research
- - Summer 2017
+- Summer 2017
   * Pre-Calculus
   * Calculus
   * Data Analysis
   * Epidemiology
- #### UCSD Summer Science Enrichment Program
- - Biostatistics
+
+#### UCSD Summer Science Enrichment Program
+
+- Biostatistics
   * Summer 2016
   * Summer 2015
