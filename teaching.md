@@ -18,10 +18,8 @@
 - STAT 100B: Introduction to Statistics
   * Spring 2018
   * Winter 2019
-  
-### Summer Programs
 
-#### UCR Upward Bound
+### UCR Upward Bound
 
 - Summer 2019
   * Data Analysis
@@ -37,7 +35,7 @@
   * Data Analysis
   * Epidemiology
 
-#### UCSD Summer Science Enrichment Program
+### UCSD Summer Science Enrichment Program
 
 - Biostatistics
   * Summer 2016
