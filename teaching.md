@@ -2,7 +2,7 @@
 
 ## Current TA Courses
 
-- [STAT 170A](vita.iqbiostats.com/F19_170A)
+- <a href="https://iquintanilla.github.io/F19_170A/" target="blank">STAT 170A</a> 
 - STAT 048
 
 ## Previous Teaching Experience
