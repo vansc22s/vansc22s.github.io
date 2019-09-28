@@ -8,6 +8,5 @@ retive_links:
   enabled: true
   collections: true
 include:
-  - education.md
   - README.md
 
