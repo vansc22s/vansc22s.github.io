@@ -2,7 +2,7 @@
 
 ## Current TA Courses
 
-- STAT 170A
+- [STAT 170A](vita.iqbiostats.com/F19_170A)
 - STAT 048
 
 ## Previous Teaching Experience
