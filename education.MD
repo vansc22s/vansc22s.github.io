@@ -1,3 +1,5 @@
 ### University of California, Riverside
+
 PhD Student
-Advisor: Esra K\:ur\:um
+
+Advisor: Esra K\u r\u m
