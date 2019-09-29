@@ -1,11 +1,6 @@
 ---
 layout: default
-output:
-  css: styles.css
 ---
-<div class="begin-examples"></div>
-
-# Isaac Noe Quintanilla Salinas
 
 ## About
 
@@ -16,4 +11,3 @@ I am currently a PhD Student at UC Riverside. My research focuses on survival mo
 
 isaac DOT quintanilla ARROBA email DOT ucr DOT edu
 
-<div class="end-examples"></div>
