@@ -4,7 +4,7 @@ layout: default
 
 # About
 
-I am currently a PhD Student at UC Riverside
+I am currently a PhD Student at UC Riverside. My research currently focuses on survival models.
 
 ## Contact
 
