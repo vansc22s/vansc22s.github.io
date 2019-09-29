@@ -1,5 +1,7 @@
 ---
 layout: default
+output:
+  css: styles.css
 ---
 <div class="begin-examples"></div>
 
