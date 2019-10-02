@@ -6,7 +6,7 @@ Riverside, CA
 
 PhD Student in Applied Statistics
 
-Advisor: Esra K&uuml;r&uuml;m
+Advisor: Dr. Esra K&uuml;r&uuml;m2qXlfohEOS@x%wnY
 
 ### San Diego State University
 
