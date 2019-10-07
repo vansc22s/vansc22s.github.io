@@ -4,19 +4,16 @@
 
 Riverside, CA
 
-PhD Student in Applied Statistics
+PhD Candidate in Applied Statistics
 
-Advisor: Dr. Esra K&uuml;r&uuml;m
+Advisor: Dr. Daniel Jeske
 
-### San Diego State University
+Expected Graduation: June 2020
 
-San Diego, CA
+### Mount Holyoke College
 
-MPH Biostatistics
+South Hadley, MA
 
-### California State University Monterey Bay
+MA in Mathematics
 
-Seaside, CA
-
-BS Biology
-
+MA in Spanish
