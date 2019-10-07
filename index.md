@@ -4,10 +4,10 @@ layout: default
 
 ## About
 
-I am currently a PhD Student at UC Riverside.
+PhD Candidate at UC Riverside since Fall 2015.
 
-My research focuses on survival models.
+My research is aimed at building a longitudinal model for detecting differences in time trends between groups in RNA-seq data sets.
 
 ## Contact
 
-isaac DOT quintanilla ARROBA email DOT ucr DOT edu
+samantha.vanschalkwyk@email.ucr.edu
