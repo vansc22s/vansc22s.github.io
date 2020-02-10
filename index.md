@@ -10,7 +10,7 @@ My research is aimed at building a longitudinal model for detecting differences 
 
 ## Curriculum Vitae
 
-Click [here](../Curriculum_Vitae.pdf) to download my Curriculum Vitae.
+Click [here](../Curriculum_Vitae.pdf) to view my Curriculum Vitae.
 
 ## Contact
 
