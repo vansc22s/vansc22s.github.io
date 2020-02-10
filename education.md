@@ -6,7 +6,7 @@ Riverside, CA
 
 PhD Candidate in Applied Statistics
 
-Advisor: Dr. Daniel Jeske
+Advisor: [Dr. Daniel Jeske](https://www.danielrjeske.com)
 
 Expected Graduation: June 2020
 
