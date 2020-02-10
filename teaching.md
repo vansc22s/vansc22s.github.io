@@ -13,6 +13,7 @@
   * Winter 2017
   * Fall 2016
 - STAT 100A: Introduction to Statistics
+  * Spring 2020
   * Winter 2019
   * Spring 2017
 - STAT 127: Introduction to Quality Improvements
